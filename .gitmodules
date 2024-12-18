@@ -10,3 +10,7 @@
 [submodule "TokenizedReRx"]
 	path = TokenizedReRx
 	url = git@github.com:chirichiri3720/TokenizedReRx.git
+[submodule "TokenizedReRx"]
+	path = TokenizedReRx
+	url = git@github.com:chirichiri3720/TokenizedReRx.git
+
